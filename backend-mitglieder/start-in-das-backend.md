@@ -10,9 +10,7 @@
 
 <figure><img src="../.gitbook/assets/scribehow.com_shared_Anleitung_fur_den_Backend-Bereich_der_ArisCorp__U2cXg4X3Sk2MeDhxzXYBBQ_back_to=browser.png" alt=""><figcaption></figcaption></figure>
 
-
-
-<figure><img src="../.gitbook/assets/CleanShot 2022-10-14 at 21.02.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2022-10-14 at 21.05.47.png" alt=""><figcaption></figcaption></figure>
 
 ### Anmelden
 
