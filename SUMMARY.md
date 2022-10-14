@@ -7,17 +7,9 @@
 * [ArisCorp Backend](https://cms.ariscorp.de)
 * [ArisCorp Statusseite](https://status.ariscorp.de)
 
-***
-
-* [Wichtige Links](README.md)
-  * [ArisCorp Homepage](https://www.ariscorp.de)
-  * [ArisCorp PTU Seite](https://ptu.ariscorp.de)
-  * [ArisCorp Backend](https://cms.ariscorp.de)
-  * [ArisCorp Statusseite](https://status.ariscorp.de)
-
 ## Allgemein
 
-* [Einleitng](allgemein/einleitng.md)
+* [Einleitng](README.md)
 
 ## Backend - Mitglieder
 
