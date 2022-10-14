@@ -12,6 +12,7 @@
 * [Einleitung](README.md)
 * [Grundlegende Informationen](allgemein/grundlegende-informationen/README.md)
   * [Wichtige Links](allgemein/grundlegende-informationen/wichtige-links.md)
+  * [Backend Rollen](allgemein/grundlegende-informationen/backend-rollen.md)
 
 ## Backend - Mitglieder
 
