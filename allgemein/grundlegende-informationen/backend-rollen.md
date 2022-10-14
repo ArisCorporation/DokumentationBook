@@ -45,5 +45,5 @@ Wenn Du beim Content der Website mitwirken willst, kannst du dich einfach an Dec
 | Literatur                     | :x:                    | :white\_check\_mark: | :white\_check\_mark: |
 
 {% hint style="warning" %}
-_\* Nur selber erstellte/hochgeladene_
+_\*Nur selber erstellte/hochgeladene_
 {% endhint %}
