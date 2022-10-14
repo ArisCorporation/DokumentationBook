@@ -32,7 +32,7 @@ Hier können Mitglieder die Entwicklung der ArisCorp-Seite mitverfolgen und nat�
 Backend der ArisCorp
 {% endembed %}
 
-Das hier ist das Backend (Mitglieder und Verwaltungsbereich) der ArisCorp Seite. Hierüber werden alle Daten erstellt, geschrieben und verwaltet. Jedes Mitglied bekommt Login Daten. Die Dokumentation findet ihr auf dieser Seite.
+Hier werden alle Daten erstellt, geschrieben und verwaltet. Jedes Mitglied bekommt Login Daten, Die Dokumentation findet ihr [hier](../../backend-mitglieder/start-in-das-backend.md).
 
 
 
@@ -42,7 +42,7 @@ Das hier ist das Backend (Mitglieder und Verwaltungsbereich) der ArisCorp Seite.
 Statusseite der ArisCorp
 {% endembed %}
 
-Das hier ist die Statusseite der ArisCorp. Hier seht ihr wenn Dienste mal ausfallen oder Wartungsarbeiten anfallen. Auch werden hier meistens Live Deployments der Website angezeigt und vieles mehr.
+Hier seht ihr wenn Dienste mal ausfallen oder Wartungsarbeiten anfallen. Auch werden hier meistens Live Deployments der Website angezeigt und vieles mehr.
 
 
 
