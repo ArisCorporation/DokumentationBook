@@ -1,10 +1,16 @@
 # Start in das Backend
 
-Anleitung für den Backend-Bereich der ArisCorp
+## Anleitung für den Backend-Bereich der ArisCorp
 
-### 1 Navigiere zu https://cms.ariscorp.de/admin/login
 
-Anmelden
+
+{% hint style="info" %}
+#### Navigiere zu [https://cms.ariscorp.de/admin/login](https://cms.ariscorp.de/admin/login)
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/scribehow.com_shared_Anleitung_fur_den_Backend-Bereich_der_ArisCorp__U2cXg4X3Sk2MeDhxzXYBBQ_back_to=browser.png" alt=""><figcaption></figcaption></figure>
+
+### Anmelden
 
 Nutze die Daten die du von uns bekommen hast. Das initiale Passwort ist IMMER deine Email.
 
