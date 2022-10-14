@@ -1,6 +1,16 @@
 # Backend Rollen
 
+Im Backend der ArisCorp gibt es verschiedene Rollen. Diese Rollen sind nicht dafür da Mitgliedern zu verwehren an der Website mit zu wirken, sondern den grundlegenden Mitgliederbereich deutlich übersichtlicher zu machen, als er eigentlich ist.&#x20;
 
+Des weiteren ist es eingeschränkt, da wir gerne jedem der am Content der Website mitwirken will, persönlich eine kleine Erklärung und Einführung geben würden, da manches etwas komplexer ist, und verschiedene Fragen auftreten könnten. Natürlich aber auch als Sicherheit, damit nicht aus Versehen wichtiger Content gelöscht wird, in den sehr viel Arbeit geflossen ist.
+
+Aus diesem Grund ist der "normale" Mitglieder Bereich so einfach wie möglich gehalten.&#x20;
+
+Wenn Du beim Content der Website mitwirken willst, kannst du dich einfach an Decon Melcom Vorn oder Thomas Blakeney wenden. Wir werden dir sehr gerne alles weitere erklären.
+
+
+
+### Hier ist jetzt noch eine Übersicht, was der Unterschied zwischen den verschiedenen Rollen ist.
 
 |                               | Mitglied               | Content-Writer       | Administrator        |
 | ----------------------------- | ---------------------- | -------------------- | -------------------- |
