@@ -9,7 +9,9 @@
 
 ## Allgemein
 
-* [Einleitng](README.md)
+* [Einleitung](README.md)
+* [Grundlegende Informationen](allgemein/grundlegende-informationen/README.md)
+  * [Wichtige Links](allgemein/grundlegende-informationen/wichtige-links.md)
 
 ## Backend - Mitglieder
 
