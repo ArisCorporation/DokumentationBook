@@ -6,6 +6,7 @@
 * [ArisCorp PTU Seite](https://ptu.ariscorp.de)
 * [ArisCorp Backend](https://cms.ariscorp.de)
 * [ArisCorp Statusseite](https://status.ariscorp.de)
+* [ArisCorp Release-Notes](https://releases.ariscorp.de)
 
 ## Allgemein
 
