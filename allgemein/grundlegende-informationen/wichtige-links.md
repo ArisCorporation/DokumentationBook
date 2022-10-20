@@ -46,16 +46,6 @@ Hier seht ihr wenn Dienste mal ausfallen oder Wartungsarbeiten anfallen. Auch we
 
 
 
-#### Die Release notes Seite der ArisCorp
-
-{% content-ref url="https://app.gitbook.com/o/bH2sTfkkBeLe3IgIs2qe/s/WrfTa4vboWl0Ip4JWyPb/" %}
-[ArisCorp Release notes](https://app.gitbook.com/o/bH2sTfkkBeLe3IgIs2qe/s/WrfTa4vboWl0Ip4JWyPb/)
-{% endcontent-ref %}
-
-Hier könnt ihr alle Release notes zu der ArisCorp Website nachlesen!
-
-
-
 #### Der YouTube Kanal der ArisCorp
 
 {% embed url="https://www.youtube.com/channel/UCYItjNoXGZVqSbUDjjHNwYg" %}
